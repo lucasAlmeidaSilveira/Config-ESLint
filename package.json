@@ -1,6 +1,6 @@
 {
-  "name": "eslint-lasilveira",
-  "version": "1.0.2",
+  "name": "eslint-config-lasilveira",
+  "version": "1.0.3",
   "description": "Minha configuração de ESLint pessoal",
   "main": "index.js",
   "repository": {
