@@ -33,6 +33,9 @@
         "comma-dangle": [
             "error", 
             "never"
+        ],
+        "function-paren-newline": [
+            "warn", { "minItems": 4 }
         ]
     }
 }
