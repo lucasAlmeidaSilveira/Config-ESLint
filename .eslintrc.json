@@ -12,6 +12,7 @@
         "sourceType": "module"
     },
     "rules": {
+        "no-var": "error",
         "indent": [
             "warn",
             "tab"
