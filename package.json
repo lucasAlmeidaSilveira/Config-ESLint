@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lasilveira",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Minha configuração de ESLint pessoal",
   "main": "index.js",
   "repository": {
@@ -20,10 +20,7 @@
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-n": "^15.2.0",
-    "eslint-plugin-promise": "^6.0.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "prettier": "^2.6.2"
+    "eslint-plugin-promise": "^6.0.0"
   },
   "peerDependencies": {
     "eslint": "^7.23.0 || ^8.0.0"
