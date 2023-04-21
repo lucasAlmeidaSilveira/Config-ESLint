@@ -1,0 +1,11 @@
+{
+  "name": "eslint-lasilveira",
+  "version": "1.0.0",
+  "description": "Minha configuração de ESLint pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Almeida da Silveira",
+  "license": "ISC"
+}
