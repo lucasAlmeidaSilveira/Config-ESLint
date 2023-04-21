@@ -1,6 +1,6 @@
 {
   "name": "eslint-lasilveira",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minha configuração de ESLint pessoal",
   "main": "index.js",
   "repository": {
@@ -14,10 +14,18 @@
   },
   "author": "Lucas Almeida da Silveira",
   "license": "ISC",
-  "devDependencies": {
-    "eslint": "^8.38.0"
-  },
   "dependencies": {
-    "eslint-plugin-import": "^2.27.5"
+    "eslint": "^8.38.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2"
+  },
+  "peerDependencies": {
+    "eslint": "^7.23.0 || ^8.0.0"
   }
 }
