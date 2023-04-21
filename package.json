@@ -8,8 +8,13 @@
     "url": "git+https://github.com/lucasAlmeidaSilveira/Config-ESLint.git"
   },
   "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lucas Almeida da Silveira",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
 }

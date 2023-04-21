@@ -1,0 +1,38 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "node": true
+    },
+    "extends": "eslint:recommended",
+    "overrides": [
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "rules": {
+        "indent": [
+            "warn",
+            "tab"
+        ],
+        "quotes": [
+            "warn",
+            "double"
+        ],
+        "semi": [
+            "warn",
+            "never"
+        ],
+        "camelcase": [
+            "warn"
+        ],
+        "arrow-parens": "warn",
+        "arrow-spacing": "warn",
+        "brace-style": "warn",
+        "comma-dangle": [
+            "error", 
+            "never"
+        ]
+    }
+}
