@@ -18,6 +18,7 @@ module.exports = {
 	},
 	rules: {
 		"no-var": "error",
+		'no-unused-vars':'warn',
 		"indent": [
 			"warn",
 			"tab"
