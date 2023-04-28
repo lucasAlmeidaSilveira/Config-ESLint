@@ -17,6 +17,7 @@ module.exports = {
 		sourceType: "module"
 	},
 	rules: {
+		"block-spacing": 'warn',
 		"no-var": "error",
 		'no-unused-vars':'warn',
 		"indent": [
